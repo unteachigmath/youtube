@@ -1,0 +1,9 @@
+files are jupyter notebooks, you can not run the codes if Manim is not set up in your computer.
+I am not attatching the videos directly because of the memory reason.
+But from the following link, you can see the result video.
+
+https://www.youtube.com/@unteachingmath
+
+Also from the following link, you can see the information about the python library that I used for this codes.
+
+https://www.manim.community/
