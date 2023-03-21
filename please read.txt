@@ -1,5 +1,5 @@
 files are jupyter notebooks, you can not run the codes if Manim is not set up in your computer.
-I am not attatching the videos directly because of the memory reason.
+I am not attatching the videos directly.
 But from the following link, you can see the result video.
 
 https://www.youtube.com/@unteachingmath
